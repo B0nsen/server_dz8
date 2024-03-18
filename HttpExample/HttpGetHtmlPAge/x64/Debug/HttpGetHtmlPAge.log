@@ -1,0 +1,3 @@
+﻿  HttpGetHtmlPAge.cpp
+C:\Users\Yushk_bh37\source\repos\HttpExample\HttpGetHtmlPAge\HttpGetHtmlPAge.cpp(79,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  HttpGetHtmlPAge.vcxproj -> C:\Users\Yushk_bh37\source\repos\HttpExample\x64\Debug\HttpGetHtmlPAge.exe

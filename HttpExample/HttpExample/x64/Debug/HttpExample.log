@@ -1,0 +1,14 @@
+﻿  HttpExample.cpp
+C:\Users\Yushk_bh37\source\repos\HttpExample\HttpExample\HttpExample.cpp(7,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Yushk_bh37\source\repos\HttpExample\HttpExample\HttpExample.cpp(7,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\Yushk_bh37\source\repos\HttpExample\HttpExample\HttpExample.cpp(80,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yushk_bh37\source\repos\HttpExample\HttpExample\HttpExample.cpp(114,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yushk_bh37\source\repos\HttpExample\HttpExample\HttpExample.cpp(115,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yushk_bh37\source\repos\HttpExample\HttpExample\HttpExample.cpp(116,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yushk_bh37\source\repos\HttpExample\HttpExample\HttpExample.cpp(117,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yushk_bh37\source\repos\HttpExample\HttpExample\HttpExample.cpp(118,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yushk_bh37\source\repos\HttpExample\HttpExample\HttpExample.cpp(119,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yushk_bh37\source\repos\HttpExample\HttpExample\HttpExample.cpp(120,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yushk_bh37\source\repos\HttpExample\HttpExample\HttpExample.cpp(121,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Yushk_bh37\source\repos\HttpExample\HttpExample\HttpExample.cpp(122,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HttpExample.vcxproj -> C:\Users\Yushk_bh37\source\repos\HttpExample\x64\Debug\HttpExample.exe
